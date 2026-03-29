@@ -1,2 +1,2 @@
 # delta-demo
-Optional demo for git n hub
+Optional demo for git n hub.
